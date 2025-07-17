@@ -10,3 +10,13 @@ In the training process, i've learnt alot of things ranging from Excel to SQL an
 This data analysis project forcuses on extracting meaningful insight to provide
 e-commerce analytics solutions to sellers. The goal is to clean, process, and analyze the data product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement. 
 
+### Data Sources:
+
+The primary source of data used here is a csv data and is an open source data that can be freely download from an open source online such as kaggle and any other data repository site.
+
+### Tool Used
+
+- Ms Excel for Data Cleaning (Download Here)
+- SQL Server (For Querying and Analysis)
+- Power BI (For Creating a Report)
+- Ms Power Point (For Presentation)
