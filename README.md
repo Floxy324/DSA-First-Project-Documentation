@@ -12,7 +12,7 @@ e-commerce analytics solutions to sellers. The goal is to clean, process, and an
 
 ### Data Sources:
 
-The primary source of data used here is a csv data and is an open source data that can be freely download from an open source online such as kaggle and any other data repository site.
+The primary source of data used here is a csv data sitted down in the file explorer in my device and the data that can be freely download from an open source online such as kaggle and any other data repository site.
 
 ### Tool Used
 
