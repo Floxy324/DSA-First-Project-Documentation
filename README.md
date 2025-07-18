@@ -41,6 +41,8 @@ EDA is the process of examining and visualizing data to understand its main char
 ### Data Analysis
 This is the point at which the data has been summarized, identified and prediction can be made.
 
+### Steps on how i build my Amazon case Study
+
 
 
    
