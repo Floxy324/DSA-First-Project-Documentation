@@ -18,7 +18,7 @@ The primary source of data used here is a csv data and is an open source data th
 
 - Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
   - For Data Collection
-  1. Gathering Data from Relevant sources (e.g, Kaggle)[Get Here](https://kaggle.com)
+  1. Gathering Data from Relevant sources (e.g, Kaggle) [Get Here](https://kaggle.com)
   . For Data Cleaning
   1. For Data Manipulation
   2. For Conversion of Data types
@@ -34,3 +34,13 @@ This process transform raw data into a consistent and usable format for analysis
 2. Handling missing or duplicate values
 3. Standardizing formats
 4. Organizing the data for easy access.
+
+   ### Exploratory Data Analysis EDA
+EDA is the process of examining and visualizing data to understand its main characteristics, patterns, and Realationship. It involves using statistical summaries, chart and graph to identify trends.It helps analyst get insights, make decision and prepare the data for analysis.
+
+### Data Analysis
+This is the point at which the data has been summarized, identified and prediction can be made.
+
+
+
+   
