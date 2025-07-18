@@ -68,3 +68,4 @@ etc.
 ## Dashboard Visualization
 
    
+<img width="1324" height="452" alt="amazon" src="https://github.com/user-attachments/assets/53b7107d-3e7b-4272-b282-d15e358a5e90" />
