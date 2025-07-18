@@ -16,7 +16,7 @@ The primary source of data used here is a csv data and is an open source data th
 
 ### Tool Used
 
-- Ms Excel for Data Cleaning [Download Here](https.//www.microsoft.com)
+- Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
   - For Data Collection
   1. Gathering Data from Relevant sources (e.g, Kaggle)
   . For Data Cleaning
