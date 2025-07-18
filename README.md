@@ -43,6 +43,10 @@ This is the point at which the data has been summarized, identified and predicti
 
 ### Steps on how i build my Amazon case Study
 
+Collecting of data from DSA HUB trainee
+Data was examine and clean using some excel functions such as "trim", "Blanks","Text-to-column"
+etc
+
 
 
    
