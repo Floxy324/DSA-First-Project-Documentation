@@ -16,7 +16,12 @@ The primary source of data used here is a csv data and is an open source data th
 
 ### Tool Used
 
-- Ms Excel for Data Cleaning (Download Here)
+- Ms Excel for Data Cleaning [Download Here](https.//www.microsoft.com)
+  - For Data Collection
+  1. Gathering Data from Relevant sources (e.g, Kaggle)
+  . For Data Cleaning
+  1. For Data Manipulation
+  2. For Conversion of Data types
 - SQL Server (For Querying and Analysis)
 - Power BI (For Creating a Report)
 - Ms Power Point (For Presentation)
