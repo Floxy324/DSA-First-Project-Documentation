@@ -47,7 +47,7 @@ This is the point at which the data has been summarized, identified and predicti
 Data was examine and clean using some excel functions such as "trim", "Blanks","Text-to-column"
 etc.
 - convert it into table the use pivot table to start my analysis with the following questions below.
-## Analysis Task 
+## Analysis Task Questions
 1. What is the average discount percentage by product category? 
 2. How many products are listed under each category? 
 3. What is the total number of reviews per category?  
