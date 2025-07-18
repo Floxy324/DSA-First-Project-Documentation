@@ -18,10 +18,19 @@ The primary source of data used here is a csv data and is an open source data th
 
 - Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
   - For Data Collection
-  1. Gathering Data from Relevant sources (e.g, Kaggle)
+  1. Gathering Data from Relevant sources (e.g, Kaggle)[Get Here](https://kaggle.com)
   . For Data Cleaning
   1. For Data Manipulation
   2. For Conversion of Data types
+     
 - SQL Server (For Querying and Analysis)
 - Power BI (For Creating a Report)
 - Ms Power Point (For Presentation)
+
+### Data Cleaning and Preparation
+
+This process transform raw data into a consistent and usable format for analysis. The following steps involves
+1. Identifying and correcting of errors
+2. Handling missing or duplicate values
+3. Standardizing formats
+4. Organizing the data for easy access.
