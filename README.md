@@ -67,5 +67,7 @@ etc.
 
 ## Dashboard Visualization
 
-   
+
+   <img width="1205" height="468" alt="Amazon pivot table" src="https://github.com/user-attachments/assets/a1b5eaf8-093e-4595-92f4-979c2e20f766" />
+
 <img width="1324" height="452" alt="amazon" src="https://github.com/user-attachments/assets/53b7107d-3e7b-4272-b282-d15e358a5e90" />
